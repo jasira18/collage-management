@@ -1,4 +1,4 @@
-student id
+college management system: such as storing data, maintain student profiles, analyzing administrative and academic data, improving communication, and engaging studentsstudent id
 student name
 departments
 ec,cs,enc
