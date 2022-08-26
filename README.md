@@ -2,4 +2,5 @@
 student name
 student id
 teacher id
-department courses
+teacher name
+department and courses
